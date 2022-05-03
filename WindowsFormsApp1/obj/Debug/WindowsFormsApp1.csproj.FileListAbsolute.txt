@@ -1,0 +1,33 @@
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gulben\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\OneDrive\Masaüstü\28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\KullanıcıAdıŞifreİleGiriş28.03.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
